@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 *.Rproj
+**/api-tokens.R
